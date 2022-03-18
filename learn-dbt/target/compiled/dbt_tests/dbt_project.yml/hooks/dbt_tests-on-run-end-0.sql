@@ -1,0 +1,1 @@
+grant usage on schema analytics.dbt to role analyst
