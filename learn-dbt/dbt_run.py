@@ -12,11 +12,11 @@ def build_flow(schedule=None):
             environment='dev',
             dbt_kwargs={
         'type': 'snowflake',
-        'account': 'nr96745.ap-south-1.aws',
+        'account': 'xxxxxxx.ap-south-1.aws',
 
         # User/password auth
         'user': 'vinssitsol',
-        'password': 'Applmgr@11',
+        'password': 'xxxxxxx',
         'role': 'ACCOUNTADMIN',
         'database': 'analytics',
         'warehouse': 'transform_wh',
