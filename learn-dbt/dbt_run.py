@@ -15,7 +15,7 @@ def build_flow(schedule=None):
         'account': 'xxxxxxx.ap-south-1.aws',
 
         # User/password auth
-        'user': 'vinssitsol',
+        'user': 'xxxxxxxx',
         'password': 'xxxxxxx',
         'role': 'ACCOUNTADMIN',
         'database': 'analytics',
